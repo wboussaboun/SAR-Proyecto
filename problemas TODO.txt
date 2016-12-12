@@ -1,0 +1,4 @@
+Buscador que busque independientemente de mayusculas y minusculas
+AJAX en el buscador
+Diseño
+Poner en la pagina principal los productos nievos
